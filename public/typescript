@@ -1,0 +1,207 @@
+Script started on Mon Jan 17 13:52:50 2022
+[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public]1;..te-lab/public[0m[27m[24m[J[01;32m➜  [36mpublic[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hsscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public/scripts]1;..ublic/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004httouch bulma.js[?1l>[?2004l
+]2;touch bulma.js]1;touch[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public/scripts]1;..ublic/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public]1;..te-lab/public[0m[27m[24m[J[01;32m➜  [36mpublic[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hsstyles[?1l>[?2004l
+]2;styles]1;styles[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public/styles]1;..public/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004httouch main.css[?1l>[?2004l
+]2;touch main.css]1;touch[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public/styles]1;..public/styles[0m[27m[24m[J[01;32m➜  [36mstyles[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnodemon ser        n  ...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab/public]1;..te-lab/public[0m[27m[24m[J[01;32m➜  [36mpublic[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h...[?1l>[?2004l
+]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab]1;..te-delete-lab[0m[27m[24m[J[01;32m➜  [36mUpdate-delete-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnodemon 
+[0mREADME.md          gitignore          [1;31mnode_modules[0m/      package.json       server.js        
+[J[1;31mcontrollers[0m/       [J[1;31mmodels[0m/            [Jpackage-lock.json  [J[1;31mpublic[0m/            [J[1;31mviews[0m/           [J[A[A[0m[27m[24m[34Cnodemon[K[1Cserver.js[1m [0m[0m [?1l>[?2004l
+[J]2;nodemon server.js]1;nodemon[33m[nodemon] 2.0.15[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+node:internal/modules/cjs/loader:936
+  throw err;
+  ^
+
+Error: Cannot find module 'method-override'
+Require stack:
+- /Users/thomasmarra/sei/deliverables/Update-delete-lab/server.js
+[90m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:778:27)[39m
+[90m    at Module.require (node:internal/modules/cjs/loader:999:19)[39m
+[90m    at require (node:internal/modules/cjs/helpers:102:18)[39m
+    at Object.<anonymous> (/Users/thomasmarra/sei/deliverables/Update-delete-lab/server.js:5:24)
+[90m    at Module._compile (node:internal/modules/cjs/loader:1097:14)[39m
+[90m    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1149:10)[39m
+[90m    at Module.load (node:internal/modules/cjs/loader:975:32)[39m
+[90m    at Function.Module._load (node:internal/modules/cjs/loader:822:12)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: [ [32m'/Users/thomasmarra/sei/deliverables/Update-delete-lab/server.js'[39m ]
+}
+
+Node.js v17.2.0
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+^C[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab]1;..te-delete-lab[0m[27m[24m[J[01;31m➜  [36mUpdate-delete-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnpm i over    method over    -override[1C[P[9C [10D[?1l>[?2004l
+]2;npm i method-override]1;npm[?25l⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠹ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ idealTree:Update-delete-lab: [7msill[0m [35midealTree[0m buildDeps[0m[K⸨[107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠇ idealTree: [32;40mtiming[0m [35midealTree[0m Completed in 707ms[0m[K⸨[107;97m#########[0m[100;90m⠂⠂⠂⠂⠂⠂⠂⠂⠂[0m⸩ ⠸ reify:debug: [7msill[0m [35maudit[0m bulk request {[0m[K⸨[107;97m##################[0m⸩ ⠴ reify:debug: [32;40mhttp[0m [35mfetch[0m GET 200 https://registry.npmjs.org/debug/-/debug-3[0m[K⸨[107;97m##################[0m⸩ ⠴ reify:debug: [32;40mhttp[0m [35mfetch[0m GET 200 https://registry.npmjs.org/debug/-/debug-3[0m[K[K[?25h
+added 2 packages, and audited 179 packages in 1s
+
+17 packages are looking for funding
+  run `npm fund` for details
+
+found [32m[1m0[22m[39m vulnerabilities
+[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab]1;..te-delete-lab[0m[27m[24m[J[01;32m➜  [36mUpdate-delete-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004hnnodemon server.js[1m [0m[0m [?1l>[?2004l
+]2;nodemon server.js]1;nodemon[33m[nodemon] 2.0.15[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+I am listening on port 4000
+I'm running for another new route
+GET /
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+I am listening on port 4000
+I'm running for another new route
+GET /
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+I am listening on port 4000
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+I am listening on port 4000
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+Product {
+  id: [33m0[39m,
+  name: [32m'Taylor Koa k24ce Acoustic Guitar'[39m,
+  price: [33m6000[39m,
+  image: [32m'https://www.taylorguitars.com/sites/default/files/styles/guitar_detail_horizontal/public/responsive-guitar-detail/Taylor-K24ce-Koa-fr-v-class-2018.png?itok=qqyAxaNp'[39m
+}
+I'm running for another new route
+GET /scripts/main.js
+The request is [object Object]
+{
+  id: [33m0[39m,
+  name: [32m'Taylor Koa k24ce Acoustic Guitar '[39m,
+  price: [32m'5000'[39m,
+  image: [32m'https://www.taylorguitars.com/sites/default/files/styles/guitar_detail_horizontal/public/responsive-guitar-detail/Taylor-K24ce-Koa-fr-v-class-2018.png?itok=qqyAxaNp '[39m
+}
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+{
+  id: [33m0[39m,
+  name: [32m'Taylor Koa k24ce Acoustic Guitar '[39m,
+  price: [32m'5000'[39m,
+  image: [32m'https://www.taylorguitars.com/sites/default/files/styles/guitar_detail_horizontal/public/responsive-guitar-detail/Taylor-K24ce-Koa-fr-v-class-2018.png?itok=qqyAxaNp '[39m
+}
+I'm running for another new route
+GET /scripts/main.js
+The request is [object Object]
+{
+  id: [33m0[39m,
+  name: [32m'Taylor Koa k24ce Acoustic Guitar  '[39m,
+  price: [32m'6000'[39m,
+  image: [32m'https://www.taylorguitars.com/sites/default/files/styles/guitar_detail_horizontal/public/responsive-guitar-detail/Taylor-K24ce-Koa-fr-v-class-2018.png?itok=qqyAxaNp  '[39m
+}
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /scripts/main.js
+{
+  id: [33m0[39m,
+  name: [32m'Taylor Koa k24ce Acoustic Guitar  '[39m,
+  price: [32m'6000'[39m,
+  image: [32m'https://www.taylorguitars.com/sites/default/files/styles/guitar_detail_horizontal/public/responsive-guitar-detail/Taylor-K24ce-Koa-fr-v-class-2018.png?itok=qqyAxaNp  '[39m
+}
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /product
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+I am listening on port 4000
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+I'm running for another new route
+GET /public/styles/main.css
+I'm running for another new route
+GET /scripts/main.js
+^C[1m[7m%[27m[1m[0m                                                                                                  ]2;thomasmarra@Thomass-MBP:~/sei/deliverables/Update-delete-lab]1;..te-delete-lab[0m[27m[24m[J[01;31m➜  [36mUpdate-delete-lab[00m [01;34mgit:([31mmain[34m) [33m✗[00m [K[?1h=[?2004h
